@@ -7,8 +7,11 @@ The purpose of our updated analysis was to update the school district analysis r
 - The district summary was affected very slightly:
 
 Module District Summary:
+
 ![Module District Summary DataFrame](/Resources/Module_District_Summary.png)
+
 Challenge District Summary:
+
 ![Challenge District Summary DataFrame](/Resources/Challenge_District_Summary.png)
 
 These small differences are likely due to rounding error, but you can see that the ninth graders from Thomas High School were not accounted for in the new analysis (the number of students is lower).
